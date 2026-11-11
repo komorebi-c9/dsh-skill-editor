@@ -1,0 +1,6 @@
+- insert:
+    - id: dsh-skill-editor
+      name: 'dsh-skill-editor'
+      config:
+        # Directory served by the skill editor panel; "~" expands to the home directory.
+        dir: '~/.agents/skills'

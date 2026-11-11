@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Skill editor",
+    "description": "Browse and edit the skills directory in a VSCode-style file tree and editor panel in the sidebar."
+  }
+}
